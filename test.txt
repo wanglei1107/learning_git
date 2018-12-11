@@ -1,1 +1,0 @@
-This file is constructed for learning how to delete file in Git
